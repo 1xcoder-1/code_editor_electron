@@ -33,19 +33,7 @@ Make sure you have the following installed:
 
 ### Installation
 
-```bash
-# Clone the repo
-git clone https://github.com/1xcoder-1/code_editor_electron.git
 
-# Navigate into the project directory
-cd code_editor_electron
-
-# Install dependencies
-npm install
-
-# Run the app
-npm start
-```
 
 ---
 
