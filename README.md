@@ -1,10 +1,12 @@
+Sure! Here's a complete `README.md` for your [code_editor_electron](https://github.com/1xcoder-1/code_editor_electron) project in Markdown format, with appropriate sections and some emojis to enhance readability:
+
+---
+
+```markdown
 # 🖥️ Code Editor - Electron App
 
 A sleek and minimalistic code editor built using **Electron** and **Monaco Editor** – the same editor that powers **Visual Studio Code**!  
 This project brings the power of a full-fledged code editing experience into a lightweight desktop app.
-
-![App Screenshot](https://github.com/1xcoder-1/code_editor_electron/blob/main/assets/screenshot.png?raw=true)
-
 ---
 
 ## ✨ Features
@@ -40,3 +42,54 @@ npm install
 
 # Run the app
 npm start
+```
+
+---
+
+## 🛠️ Built With
+
+- [Electron](https://www.electronjs.org/) - Desktop app framework
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor used in VS Code
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+
+---
+
+## 📂 Project Structure
+
+```
+code_editor_electron/
+├── main.js           # Electron main process
+├── index.html        # HTML file rendered in the window
+├── renderer.js       # Frontend logic
+├── preload.js        # Secure IPC communication
+├── package.json      # Project metadata and dependencies
+└── assets/           # Static files (icons, screenshot, etc.)
+```
+
+
+## 🧩 Future Enhancements
+
+- Tabbed editing support
+- File explorer integration
+- Customizable themes
+- Language-specific extensions
+- Line error reporting
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/1xcoder-1/code_editor_electron/issues).
+
+
+
+## 🙌 Acknowledgements
+
+- Thanks to the teams behind Electron and Monaco Editor
+- Inspired by the simplicity and power of VS Code
+
+---
+
+Made with ❤️ by [@1xcoder-1](https://github.com/1xcoder-1)
+```
