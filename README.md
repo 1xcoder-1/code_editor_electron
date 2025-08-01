@@ -3,8 +3,6 @@
 A sleek and minimalistic code editor built using **Electron** and **Monaco Editor** – the same editor that powers **Visual Studio Code**!  
 This project brings the power of a full-fledged code editing experience into a lightweight desktop app.
 
-![App Screenshot](https://github.com/1xcoder-1/code_editor_electron/blob/main/assets/screenshot.png?raw=true)
-
 ---
 
 ## ✨ Features
