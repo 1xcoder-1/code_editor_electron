@@ -7,6 +7,9 @@ Sure! Here's a complete `README.md` for your [code_editor_electron](https://gith
 
 A sleek and minimalistic code editor built using **Electron** and **Monaco Editor** – the same editor that powers **Visual Studio Code**!  
 This project brings the power of a full-fledged code editing experience into a lightweight desktop app.
+
+![App Screenshot](https://github.com/1xcoder-1/code_editor_electron/blob/main/assets/screenshot.png?raw=true)
+
 ---
 
 ## ✨ Features
@@ -66,6 +69,15 @@ code_editor_electron/
 └── assets/           # Static files (icons, screenshot, etc.)
 ```
 
+---
+
+## 📸 Screenshots
+
+| Editor View |
+|-------------|
+| ![Screenshot](https://github.com/1xcoder-1/code_editor_electron/blob/main/assets/screenshot.png?raw=true) |
+
+---
 
 ## 🧩 Future Enhancements
 
@@ -82,7 +94,13 @@ code_editor_electron/
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/1xcoder-1/code_editor_electron/issues).
 
+---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 🙌 Acknowledgements
 
@@ -93,3 +111,7 @@ Feel free to check the [issues page](https://github.com/1xcoder-1/code_editor_el
 
 Made with ❤️ by [@1xcoder-1](https://github.com/1xcoder-1)
 ```
+
+---
+
+Let me know if you'd like badges, Docker support instructions, or packaging guides (e.g. using `electron-builder`) added!
