@@ -1,8 +1,3 @@
-Sure! Here's a complete `README.md` for your [code_editor_electron](https://github.com/1xcoder-1/code_editor_electron) project in Markdown format, with appropriate sections and some emojis to enhance readability:
-
----
-
-```markdown
 # 🖥️ Code Editor - Electron App
 
 A sleek and minimalistic code editor built using **Electron** and **Monaco Editor** – the same editor that powers **Visual Studio Code**!  
@@ -33,8 +28,19 @@ Make sure you have the following installed:
 
 ### Installation
 
+```bash
+# Clone the repo
+git clone https://github.com/1xcoder-1/code_editor_electron.git
 
+# Navigate into the project directory
+cd code_editor_electron
 
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+```
 ---
 
 ## 🛠️ Built With
@@ -59,14 +65,6 @@ code_editor_electron/
 
 ---
 
-## 📸 Screenshots
-
-| Editor View |
-|-------------|
-| ![Screenshot](https://github.com/1xcoder-1/code_editor_electron/blob/main/assets/screenshot.png?raw=true) |
-
----
-
 ## 🧩 Future Enhancements
 
 - Tabbed editing support
@@ -84,11 +82,7 @@ Feel free to check the [issues page](https://github.com/1xcoder-1/code_editor_el
 
 ---
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
@@ -99,7 +93,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Made with ❤️ by [@1xcoder-1](https://github.com/1xcoder-1)
 ```
-
----
-
-Let me know if you'd like badges, Docker support instructions, or packaging guides (e.g. using `electron-builder`) added!
